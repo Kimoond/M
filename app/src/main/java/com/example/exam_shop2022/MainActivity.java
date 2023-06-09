@@ -37,13 +37,10 @@ public class MainActivity extends AppCompatActivity  {
         txt_pay =findViewById(R.id.txt_pay);
         chk_agree = findViewById(R.id.chk_agree);
 
-        findViewById(R.id.radio1).setOnClickListener(this);
-        findViewById(R.id.radio2).setOnClickListener(this);
-        findViewById(R.id.radio3).setOnClickListener(this);
-        findViewById(R.id.radio4).setOnClickListener(this);
-        findViewById(R.id.btn_minus).setOnClickListener(this);
-        findViewById(R.id.btn_plus).setOnClickListener(this);
-        findViewById(R.id.txt_pay).setOnClickListener(this);
+
+
+
+
 
 
 
